@@ -2,6 +2,12 @@
 
 Un plugin [Vim](http://www.vim.org) pour une prise en charge de la disposition de clavier [bépo](http://www.bepo.fr).
 
+Ce répo est un fork de [vim-bepo](https://github.com/michamos/vim-bepo) pour
+modifier les redéfinitions pour les touches que je privilégie :
+`tsrn` en remplacement de `hjkl`.
+Les touches de mouvement sont directement accessibles sur les touches de repos
+du bépo.
+
 ## Contenu
 
 Le plugin consiste essentiellement en un nombre minimal de redéfinitions de touches nécessaire pour un usage confortable de Vim.
